@@ -1,4 +1,4 @@
-### Ola, Sou Francisco 👋
+### Ola, Sou o Francisco 👋
 
 <!--
 **FranciscoAlmeidafcqa/FranciscoAlmeidafcqa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
